@@ -10,3 +10,6 @@ TST-2 first commit
 # TST-2 smart commit 005
 # master smart commit 006
 
+# TST-4 smart commit 000
+
+
