@@ -18,4 +18,5 @@ TST-2 first commit
 # TST-4 smart commit 005
 # TST-4 smart commit 006
 # TST-4 smart commit 007
+# TST-4 smart commit 008
 
