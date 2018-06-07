@@ -25,3 +25,6 @@ TST-2 first commit
 # TST-1 smart commit 012
 # TST-1 smart commit 013
 
+
+# TST-2 all commit 000
+
