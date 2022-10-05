@@ -2,5 +2,6 @@ Test file for GITCL-1920
 
 Line 000
 Line 001
+Line 002
 
 
